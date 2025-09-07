@@ -388,7 +388,7 @@ Specificity: (0,1,0)
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
-  background-color: #5F6368;
+  background-color: #3c3c3c;
 }
 
 .calculator__display--text {
@@ -398,7 +398,7 @@ Specificity: (0,1,0)
 
 .calculator__buttons {
   display: grid;
-  background-color: #f1f1f1;
+  background-color: #4d4d4d;
   grid-gap: 1px;
   grid-template-columns: auto auto auto auto;
 }
