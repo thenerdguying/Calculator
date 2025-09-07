@@ -1,1 +1,0 @@
-Filename: Calculator.png
