@@ -393,12 +393,12 @@ Specificity: (0,1,0)
 
 .calculator__display--text {
   font-size: 48px;
-  color: #e3e6e9;
+  color: #454545;
 }
 
 .calculator__buttons {
   display: grid;
-  background-color: #e3e3e3;
+  background-color: #f1f1f1;
   grid-gap: 1px;
   grid-template-columns: auto auto auto auto;
 }
@@ -406,21 +406,21 @@ Specificity: (0,1,0)
 .calculator__buttons button {
   border: none;
   font-size: 26px;
-  background-color: #5F6368;
+  background-color: #4d4d4d;
   width: 62px;
   height: 62px;
   padding: 0;
 }
 
 .calculator__buttons button:hover {
-  background-color: #313539;
+  background-color: #4d4d4d;
 }
 
 .calculator__buttons button:nth-child(4n) {
   color: #f1f1f1;
-  background-color: #5F6368;
+  background-color: #4d4d4d;
 }
 
 .calculator__buttons button:nth-child(4n):hover {
-  background-color: #313539;
+  background-color: #4d4d4d;
 }
